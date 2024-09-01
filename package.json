@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "typescript": "^5.5.4"
-  },
-  "dependencies": {
-    "@react-spring/web": "^9.7.4",
-    "react-router-dom": "^6.26.1"
-  }
-}
